@@ -12,7 +12,7 @@
 - Support for **multiple spreadsheets** & different languages
 - Easily **customizable user interface**
 - **Text effects, in-line images, MSDF fonts and more** supported by [Scribble](https://github.com/JujuAdams/Scribble)
-- Support for **custom animations, transitions, and types of textboxes**
+- Support for **custom animations, transitions, and different types of textboxes**
 
 ---
 ### [Documentation]()
