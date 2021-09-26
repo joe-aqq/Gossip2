@@ -15,5 +15,5 @@
 - Support for **custom animations, transitions, and different types of textboxes**
 
 ---
-### [Documentation]()
+### [Documentation](https://github.com/brainfoam/Gossip2/wiki/Quickstart-Guide)
 ### [Itch.io]()
